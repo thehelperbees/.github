@@ -1,6 +1,6 @@
 ### Ticket(s)
 
-- [[T-###] - TICKET_SUMMARY_HERE](linktoticket)
+- [\[T-####\] TICKET_SUMMARY_HERE](linktoticket)
 
 ### Summary / Problem Statement
 - Please include a brief summary of the changes in this PR.
