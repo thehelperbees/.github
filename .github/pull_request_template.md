@@ -1,5 +1,4 @@
 ### Ticket(s)
-
 - [\[T-####\] TICKET_SUMMARY_HERE](linktoticket)
 
 ### Summary / Problem Statement
